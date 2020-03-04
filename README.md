@@ -19,4 +19,5 @@ If you, for whatever reason, really liked this project and want to support futur
 If you can't tell that I'm already paranoid by the fact I went out of my way to try to write something like this (mostly joking), I'd prefer donations be through cryptocurrencies like Monero, Ethereum, or through BAT, as I'm a Brave Verified Creator. XMR and ETH addresses are listed below, and if you use [Brave](https://brave.com/JOH113) too you can click the little triangle in your browser to send me some of the fancy three-sided shekels (and it pays you to browse while blocking ads, which I think is pretty neat).
 
 ETH: 0x339DCBD53f17159613F10ac6211F70fC2739FD81
+
 XMR: 84x8sQ9TgC5EnRA7UNfE1wgaijhwgZbjRJMerApX5TjHCF8vm2V65tRUeo5TfVW74diippWFKHnWxY1ddaUthgyxLDshGd4  
